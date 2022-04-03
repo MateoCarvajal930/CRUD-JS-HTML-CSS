@@ -1,0 +1,26 @@
+body{
+    width: 715px;
+    margin:0 auto;
+    background-color: blueviolet;
+}
+
+h1{
+    text-align:center;
+}
+
+h3{
+    text-align: center;
+}
+
+form{
+    width: 715px;
+}
+
+img{
+    width: 60;
+    height: 40px;
+}
+
+.form-control{
+    background-color: gray;
+}
